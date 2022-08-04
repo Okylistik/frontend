@@ -72,8 +72,6 @@
 
 - [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
 
-- [TypingClub](https://www.typingclub.com/) — покращити швидкість набору на клавіатурі
-
 - [How to Learn and Cope with Negative Thoughts](https://guides.hexlet.io/learning/)
 
 ## Готово?
